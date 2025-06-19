@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Doyotteee's%20Profile!&fontSize=32&fontAlignY=40&desc=Let's%20Code%20and%20Have%20Fun!&descAlignY=60)
-
-👋 Hi, I'm Doyotteee!
-
 ## 🏆 Trophy Showcase
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=doyotteee&theme=radical)
