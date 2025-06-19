@@ -60,6 +60,15 @@ Tebak angka dari 1 sampai 5! Pilih salah satu emoji di bawah ini, lalu cek jawab
 
 ---
 
+## 🏅 GitHub Achievements
+
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/yolo-default.png" width="80" title="YOLO"/>
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/starstruck-default.png" width="80" title="Starstruck"/>
+<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire"/>
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doyotteee&show_icons=true&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=doyotteee&color=blue)
