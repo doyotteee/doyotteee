@@ -19,28 +19,6 @@ I'm a passionate software developer with a strong interest in building impactful
 📫 Let’s connect! Feel free to check out my repositories, open an issue, or reach out via [email/social media].
 
 ---
-
-## 🎮 Tebak Angka Game (Emoji Edition)
-
-Tebak angka dari 1 sampai 5! Pilih salah satu emoji di bawah ini, lalu cek jawabannya di bawah (jawaban acak setiap reload):
-
-1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣
-
-<details>
-<summary>Klik untuk lihat jawaban</summary>
-
-🎉 Angka yang benar adalah: <b>$(echo $((RANDOM % 5 + 1)))</b> 🎉
-
-</details>
-
----
-
-## 🎬 Featured Video
-
-[![YouTube Video](https://img.youtube.com/vi/U-IVndCqXWc/0.jpg)](https://www.youtube.com/watch?v=U-IVndCqXWc)
-
----
-
 ## 🏆 Trophy Showcase
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=doyotteee&theme=radical)
