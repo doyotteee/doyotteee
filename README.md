@@ -35,6 +35,12 @@ Tebak angka dari 1 sampai 5! Pilih salah satu emoji di bawah ini, lalu cek jawab
 
 ---
 
+## 🎬 Featured Video
+
+[![YouTube Video](https://img.youtube.com/vi/U-IVndCqXWc/0.jpg)](https://www.youtube.com/watch?v=U-IVndCqXWc)
+
+---
+
 ## 🏆 Trophy Showcase
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=doyotteee&theme=radical)
@@ -47,7 +53,9 @@ Tebak angka dari 1 sampai 5! Pilih salah satu emoji di bawah ini, lalu cek jawab
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=doyotteee&theme=radical)
 
-## 🛠️ My Tech Stack
+## 🏆 [My GitHub Achievements](https://github.com/doyotteee?tab=achievements)
+
+## 💻 Tech Stack ⚡
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -58,14 +66,13 @@ Tebak angka dari 1 sampai 5! Pilih salah satu emoji di bawah ini, lalu cek jawab
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
+## 🌐 Connect with Me 🍬
 
-## 🏅 GitHub Achievements
 
-<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
-<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/yolo-default.png" width="80" title="YOLO"/>
-<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/starstruck-default.png" width="80" title="Starstruck"/>
-<img src="https://github.com/Schweinepriester/github-profile-achievements/raw/main/images/achievements/pair-extraordinaire-default.png" width="80" title="Pair Extraordinaire"/>
+
+## 🐍 GitHub Contribution Snake
+
+![snake gif](https://github.com/doyotteee/doyotteee/blob/output/github-snake.svg)
 
 ---
 
